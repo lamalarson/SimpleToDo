@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Simple Todo</string>
+    <string name="boutton_ajouter">Ajoute</string>
+    <string name="tache_mod">Tach modifye</string>
+    <string name="tache_modi">Chanje</string>
+    <string name="tache_supp">Tach siprime</string>
+    <string name="tache_aj">Tach byen ajoute</string>
+    <string name="ajouter_tache">Mete yon tach</string>
+</resources>

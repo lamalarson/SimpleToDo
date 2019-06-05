@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ajouter_tache">Nouvelle tache</string>
+    <string name="boutton_ajouter">Ajouter</string>
+    <string name="tache_mod">Tache modifier</string>
+    <string name="tache_modi">Modifier</string>
+    <string name="tache_supp">Tache supprimer</string>
+    <string name="tache_aj">Tache ajouter</string>
+</resources>
